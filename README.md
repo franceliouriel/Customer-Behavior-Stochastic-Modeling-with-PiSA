@@ -34,3 +34,5 @@ Desarrollamos una aplicación en Python para visualizar el modelo y segmentar a 
 ## Conclusión
 
 En resumen, el modelado de datos utilizando cadenas de Markov se ha revelado como una herramienta poderosa y efectiva para comprender y predecir el comportamiento de los clientes. Este enfoque permite no solo analizar los patrones de compra pasados, sino también anticipar el comportamiento futuro de los clientes, lo que proporciona una ventaja estratégica significativa para la empresa.
+
+** El conjunto de datos utilizado en este proyecto fue proporcionado por la empresa PiSA y está sujeto a restricciones de confidencialidad. ** 
